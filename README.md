@@ -1,1 +1,1 @@
-# VCG_SmartContracts
+# VCG Smart Contracts
